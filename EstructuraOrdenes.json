@@ -1,0 +1,20 @@
+{
+    "OrderID": 123456,
+    "Adress": "Catamarca 125",
+    "Status": "Ready",
+    "Articles":[
+        {
+            "Name": "Carne",
+            "Price": 8000,
+            "Quantity": 3,
+            "Dangerous": false
+        },
+        {
+            "Name": "Acid",
+            "Price": 9500,
+            "Quantity": 2,
+            "Dangerous": true
+        }
+
+    ]
+}
